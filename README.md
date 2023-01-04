@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-#CRYPTOCURRENCY APPLICATION
+CRYPTOCURRENCY APPLICATION
 
 Just a basic UI of crypto application for experience the better feel and Improve the user experience 
 
