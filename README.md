@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+##CRYPTOCURRENCY APPLICATION
+Just a basic UI of crypto application for experience the better feel and Improve the user experience 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
